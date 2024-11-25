@@ -1,0 +1,1 @@
+# Digikala-Dataset-for-Finding-Frequent-Patterns
